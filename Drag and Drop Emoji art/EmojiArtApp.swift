@@ -8,10 +8,11 @@
 import SwiftUI
 
 @main
-struct Drag_and_Drop_Emoji_artApp: App {
+struct EmojiArtApp: App {
+    let document = EmojiArtDocument()
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            EmojiArtDocumentView(document: document)
         }
     }
 }
