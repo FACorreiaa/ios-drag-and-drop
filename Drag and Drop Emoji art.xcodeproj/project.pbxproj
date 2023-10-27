@@ -18,6 +18,7 @@
 		4534A0AE2AEBC74700F8D7BD /* EmojiArtModel.BackgroundModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4534A0AD2AEBC74700F8D7BD /* EmojiArtModel.BackgroundModel.swift */; };
 		4534A0B02AEBC86C00F8D7BD /* EmojiArtDocument.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4534A0AF2AEBC86C00F8D7BD /* EmojiArtDocument.swift */; };
 		4534A0B22AEBCEA100F8D7BD /* EmojiArtUtilityExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4534A0B12AEBCEA100F8D7BD /* EmojiArtUtilityExtensions.swift */; };
+		4534A0B82AEC03C300F8D7BD /* EmojiArtUtilityViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4534A0B72AEC03C300F8D7BD /* EmojiArtUtilityViews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		4534A0AD2AEBC74700F8D7BD /* EmojiArtModel.BackgroundModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiArtModel.BackgroundModel.swift; sourceTree = "<group>"; };
 		4534A0AF2AEBC86C00F8D7BD /* EmojiArtDocument.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiArtDocument.swift; sourceTree = "<group>"; };
 		4534A0B12AEBCEA100F8D7BD /* EmojiArtUtilityExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiArtUtilityExtensions.swift; sourceTree = "<group>"; };
+		4534A0B72AEC03C300F8D7BD /* EmojiArtUtilityViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiArtUtilityViews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				4534A0AB2AEBC53F00F8D7BD /* EmojiArtModel.swift */,
 				4534A0AF2AEBC86C00F8D7BD /* EmojiArtDocument.swift */,
 				4534A0B12AEBCEA100F8D7BD /* EmojiArtUtilityExtensions.swift */,
+				4534A0B72AEC03C300F8D7BD /* EmojiArtUtilityViews.swift */,
 				4534A0AD2AEBC74700F8D7BD /* EmojiArtModel.BackgroundModel.swift */,
 			);
 			path = "Drag and Drop Emoji art";
@@ -276,6 +279,7 @@
 				4534A0B02AEBC86C00F8D7BD /* EmojiArtDocument.swift in Sources */,
 				4534A0B22AEBCEA100F8D7BD /* EmojiArtUtilityExtensions.swift in Sources */,
 				4534A0812AEBC4AC00F8D7BD /* EmojiArtApp.swift in Sources */,
+				4534A0B82AEC03C300F8D7BD /* EmojiArtUtilityViews.swift in Sources */,
 				4534A0AC2AEBC53F00F8D7BD /* EmojiArtModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
